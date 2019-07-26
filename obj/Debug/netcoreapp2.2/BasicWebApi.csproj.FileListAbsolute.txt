@@ -1,0 +1,14 @@
+C:\Course\BasicWebApi\bin\Debug\netcoreapp2.2\BasicWebApi.deps.json
+C:\Course\BasicWebApi\bin\Debug\netcoreapp2.2\BasicWebApi.runtimeconfig.json
+C:\Course\BasicWebApi\bin\Debug\netcoreapp2.2\BasicWebApi.runtimeconfig.dev.json
+C:\Course\BasicWebApi\bin\Debug\netcoreapp2.2\BasicWebApi.dll
+C:\Course\BasicWebApi\bin\Debug\netcoreapp2.2\BasicWebApi.pdb
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.csprojAssemblyReference.cache
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.csproj.CoreCompileInputs.cache
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.RazorAssemblyInfo.cache
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.RazorAssemblyInfo.cs
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.AssemblyInfoInputs.cache
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.AssemblyInfo.cs
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.RazorTargetAssemblyInfo.cache
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.dll
+C:\Course\BasicWebApi\obj\Debug\netcoreapp2.2\BasicWebApi.pdb
